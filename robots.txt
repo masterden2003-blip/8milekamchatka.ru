@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://masterden2003-blip.github.io/8milekamchatka.ru/sitemap.xml
